@@ -7,11 +7,11 @@
 simple swift **tic-tac-toe** game for iOS using **SpriteKit &amp; GameplayKit**
 
 ## Development
-* **UIColor extension** to use your own Hex UIColors `UIColor(hex: "282C34")`
-* **HapticFeedback** implementation
-* implemented **iOS Alerst**, `showAlert(title: , message:)`
-* **object-oriented** tic-tac-toe board (board with cells)
-* using **png** version of sf icons thanks to hotpot.ai
+* added a **UIColor extension** to use your own Hex colors `UIColor(hex: "282C34")`
+* **HapticFeedback** when pressing buttons
+* implemented **iOS Alerts**, `showAlert(title: , message:)`
+* **object-oriented** tic-tac-toe design
+* using png version of **sf-icons** thanks to hotpot.ai
 
 ## Author
 Coded by [@ignaciojuarez](https://github.com/ignaciojuarez)
