@@ -11,7 +11,7 @@ simple swift **tic-tac-toe** game for iOS using **SpriteKit &amp; GameplayKit**
 * **HapticFeedback** when pressing buttons
 * implemented **iOS Alerts**, `showAlert(title: , message:)`
 * **object-oriented** tic-tac-toe design
-* using png version of **sf-icons** thanks to hotpot.ai
+* using **sf-icons** (png) from hotpot.ai
 
 ## Author
 Coded by [@ignaciojuarez](https://github.com/ignaciojuarez)
